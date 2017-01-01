@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Интро","order":1,"parentId":0,"scrollX":533.6666666666666,"scrollY":414.3333333333333},
+{"id":2,"expanded":true,"name":"Эльб(центр)","order":2,"parentId":1,"scrollX":2604.3333333333335,"scrollY":819},
+{"id":3,"expanded":false,"name":"Замок(зал)","order":3,"parentId":2,"scrollX":533.6666666666666,"scrollY":750.3333333333334},
+{"id":4,"expanded":false,"name":"Кухня","order":4,"parentId":3,"scrollX":642.4,"scrollY":449.2},
+{"id":5,"expanded":false,"name":"Библиотека","order":5,"parentId":3,"scrollX":648.8,"scrollY":586.8},
+{"id":6,"expanded":false,"name":"Домик","order":6,"parentId":2,"scrollX":646.8,"scrollY":366.8},
+{"id":7,"expanded":true,"name":"Восточный Лес","order":7,"parentId":2,"scrollX":533.6666666666666,"scrollY":414.3333333333333},
+{"id":8,"expanded":true,"name":"Поляна","order":8,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"Палатка внутри","order":9,"parentId":8,"scrollX":539,"scrollY":305.6666666666667},
+{"id":10,"expanded":false,"name":"Подвал","order":10,"parentId":9,"scrollX":832,"scrollY":640}
+]
